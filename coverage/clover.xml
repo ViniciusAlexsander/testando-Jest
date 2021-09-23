@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631228560856" clover="3.2.0">
-  <project timestamp="1631228560856" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+<coverage generated="1632433563330" clover="3.2.0">
+  <project timestamp="1632433563331" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="13" coveredelements="13" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2"/>
+    <file name="forEach.js" path="C:\Users\Vinicius\Documents\repos\testando-Jest\forEach.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
     <file name="soma.js" path="C:\Users\Vinicius\Documents\repos\testando-Jest\soma.js">
       <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="2" count="7" type="cond" truecount="4" falsecount="0"/>
